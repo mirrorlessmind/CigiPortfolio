@@ -278,23 +278,12 @@ main {
 }
 
 @media screen and (max-width: 768px) {
-  .flex-item,
-  .flex-item:first-child {
-    flex-basis: 100%;
-  }
-
-  .flex-item:first-child {
-    min-height: 150px;
-  }
-
   .hero-banner {
     justify-content: center;
-    text-align: center;
+    text-align: flex-end;
+    font-size: 50%;
   }
 
-  .hero-text {
-    font-size: 7vw;
-  }
   .contact address {
     flex-direction: column;
     align-items: flex-start;
