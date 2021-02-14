@@ -221,7 +221,10 @@ main {
 
 /* portfolio project images */
 .hero-banner {
-  background-image: url("../images/02-cigiheader.jpg);
+  background-image: url("../images/02-cigiheader.jpg");
+
+} 
+  
 .run-buddy {
   background-image: url("../images/02-run-buddy.jpg");
 }
