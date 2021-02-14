@@ -87,8 +87,8 @@ main {
 }
 
 .hero-banner {
-  background: rgb(68, 88, 120);
-  background-image: url(".assets/images/02-cigiheader.jpg");
+  background-image: url("../images/02-cigiheader.jpg");
+  background-size: cover;
   background-position: center;
   background-blend-mode: soft-light;
   min-height: 30vh;
@@ -98,6 +98,7 @@ main {
   justify-content: flex-end;
   align-items: flex-end;
   text-align: right;
+}
 }
 
 .hero-banner div {
