@@ -4,6 +4,7 @@
 
 Welcome to Cigi's Homework Assignment to Build a Portfolio
 
+![Alt text](assets/02-portfolio-demo.jpg?raw=true "Demo Image")
 
 ## User Story
 
