@@ -35,10 +35,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ```
 
 
-## Mock-Up
 
-The following image shows the web application's appearance and functionality:
 
-![portfolio demo](../images/02-portfolio-demo.jpg)
 
 
