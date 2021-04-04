@@ -1,23 +1,21 @@
 #Cigi Tiption Portfolio
 
-## Your Task
+## Portfolio Round 2
 
-Welcome to Cigi's Homework Assignment to Build a Portfolio
+Welcome to Cigi's Portfolio
 
 ![Demo Image](assets/images/02-portfolio-demo.jpg?raw=true "Demo Image")
 
-## User Story
+## Progress Made
 
 ```
-AS A Student
-I WANT to display future work here
-SO THAT I may demonstrate my skills for future employers 
+Added projects from the past couple of weeks. Removed placeholder projects 
 ```
 
 
-## Acceptance Criteria
+## Future Additions
 
-Completing the assignment and updating this portfolio as my knowledge base grows.
+Using current languages and ones in the near future, I will re-style with animations and more interactive buttons.
 
 
 
