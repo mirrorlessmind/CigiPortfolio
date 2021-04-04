@@ -139,6 +139,7 @@ main {
   flex-wrap: wrap;
   align-items: stretch;
   justify-content: space-between;
+  border-radius: 25px;
 }
 
 .page-section > h2 {
@@ -152,10 +153,12 @@ main {
 
 .page-section > div {
   flex: 0 0 77%;
+  border-radius: 25px;
 }
 
 .page-section p {
   margin-bottom: 20px;
+  border-radius: 25px;
 }
 
 .flex-container {
@@ -180,6 +183,7 @@ main {
   background-size: 150%;
   transition: all 0.5s;
   font-size: 0.9rem;
+  border-radius: 25px;
 }
 
 /* feature the first portfolio item larger than the rest saving for later*/
