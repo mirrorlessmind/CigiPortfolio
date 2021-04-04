@@ -14,7 +14,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', 'sans-serif';
   color: var(--primary);
   background-color: var(--light);
   line-height: 1.5;
@@ -33,13 +33,23 @@ p {
   margin: 0;
 }
 
-header {
+header, footer {
   padding: 15px 6% 15px 0;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   flex-wrap: wrap;
   align-items: center;
+  background-color: var(--tertiary);
+  box-shadow: 0 5px 35px rgba(146, 204, 206, 0.4);
+}
+}
+
+footer {
+  padding: 30px 6% 15px 0;
+  flex-direction: row;
+  flex-wrap: wrap;
+  text: center;
   background-color: var(--tertiary);
   box-shadow: 0 5px 35px rgba(146, 204, 206, 0.4);
 }
@@ -172,10 +182,10 @@ main {
   font-size: 0.9rem;
 }
 
-/* feature first portfolio item */
-.flex-item:first-child {
-    min-height: 400px;
-    flex-basis: 100%;
+/* feature the first portfolio item larger than the rest saving for later*/
+/*.flex-item:first-child {
+    min-height: 300px;
+    flex-basis: 100%;*/
 }
 
 .flex-item:hover {
@@ -219,32 +229,32 @@ main {
   color: var(--secondary);
 }
 
-/* portfolio project images */
-.run-buddy {
-  background-image: url("../images/02-run-buddy.jpg");
+/* Spring 2021 portfolio project images */
+.beautiful-day {
+  background-image: url("../images/portfolio-2.jpg");
 }
 
-.led-wall {
-  background-image: url("../images/02-portfolio-1.jpg");
+.lets-code {
+  background-image: url("../images/portfolio-1.jpg");
 }
 
 .react-calc {
-  background-image: url("../images/02-portfolio-2.jpg");
+  background-image: url("../images/neverendinguser.jpg");
 }
 
-.pastel-puzzles {
-  background-image: url("../images/02-portfolio-3.jpg");
+.git-password {
+  background-image: url("../images/portfolio-3.jpg");
 }
 
-.surf-report {
-  background-image: url("../images/02-portfolio-4.jpg");
+.weather-flix {
+  background-image: url("../images/portfolio-4.jpg");
 }
 
-/* end portfolio project images */
+/* end Spring 2021 portfolio project images */
 
-/* media  */
+/* media   */
 
-@media screen and (max-width: 980px) {
+@media screen (max-width: 980px) {
   header {
     padding: 0 0 10px 0;
     justify-content: center;
@@ -276,12 +286,12 @@ main {
     font-size: 7vw;
   }
 }
-
-@media screen and (max-width: 768px) {
- .flex-item,
+/*Saving first-child for next version */
+@media screen (max-width: 768px) {
+ /*.flex-item,
   .flex-item:first-child {
     flex-basis: 100%;
-  }
+  }*/
 
   .flex-item:first-child {
     min-height: 150px;
@@ -290,7 +300,7 @@ main {
   .hero-banner {
     justify-content: center;
     text-align: center;
-
+  }
   .contact address {
     flex-direction: column;
     align-items: flex-start;
