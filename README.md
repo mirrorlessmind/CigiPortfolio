@@ -16,7 +16,7 @@ Added projects from the past couple of weeks. Removed placeholder projects
 ## Future Additions
 
 Using current languages and ones in the near future, I will re-style with animations and more interactive buttons.
-Deployed site: <a href ="https://mirrorlessmind.github.io/CigiPortfolio/">Here /a>
+Deployed site: <a href ="https://mirrorlessmind.github.io/CigiPortfolio/">Here<
 
 
 
