@@ -149,6 +149,7 @@ main {
   border-right: 4px solid var(--primary);
   font-size: 4vw;
   line-height: 1.1;
+
 }
 
 .page-section > div {
@@ -165,6 +166,7 @@ main {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  
 }
 
 .flex-item {
@@ -186,7 +188,11 @@ main {
   border-radius: 25px;
 }
 
+<<<<<<< Updated upstream
 /* feature the first portfolio item larger than the rest saving for later*/
+=======
+/* feature the first portfolio item larger than the rest*/
+>>>>>>> Stashed changes
 /*.flex-item:first-child {
     min-height: 300px;
     flex-basis: 100%;*/
@@ -233,7 +239,11 @@ main {
   color: var(--secondary);
 }
 
+<<<<<<< Updated upstream
 /* Spring 2021 portfolio project images */
+=======
+/* portfolio project images */
+>>>>>>> Stashed changes
 .beautiful-day {
   background-image: url("../images/portfolio-2.jpg");
 }
