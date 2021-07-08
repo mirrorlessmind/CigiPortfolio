@@ -1,7 +1,13 @@
 # Portfolio 
 Welcome to Cigi's Portfolio 2.0
 
-![Demo Image](assets/images/02-portfolio-demo.jpg?raw=true "Demo Image")
+## Table of Contents
+- [Use](#use)
+- [Description](#description)
+- [License](#license)
+- [Questions](#questions)
+## Usage
+To help Future Employers learn more about my skills
 
 ## Languages & Technology Involved
 Featuring: Javascript, SQL, HandleBars, Express, Heroku, Node.js,JSON, ES6+,CSS, npm modules.
@@ -16,13 +22,13 @@ Featuring: Javascript, SQL, HandleBars, Express, Heroku, Node.js,JSON, ES6+,CSS,
 To help Future Employers learn more about my skills
 
 ## Description 🔥
-This app is a standalong blog requiring the user to log in to create blogs. Once logged in, they will be able to create logs and view them on their dashboard.
+Designed to allow future employers learn more about my past and current projects. Also included is a link to some of my previous creative endeavors with my company.
 
+Portfolio Deployed
 
 Portfolio Deployed
 
 <a href="https://mirrorlessmind.github.io/CigiPortfolio/" rel="nofollow">Portfolio</a>
-
 
 
 ## License 😎
