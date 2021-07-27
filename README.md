@@ -1,5 +1,5 @@
 # Portfolio 
-Welcome to Cigi's Portfolio 2.0
+Welcome to Cigi's Portfolio Version 3.0
 
 ## Table of Contents
 - [Use](#use)
@@ -23,8 +23,6 @@ To help Future Employers learn more about my skills
 
 ## Description 🔥
 Designed to allow future employers learn more about my past and current projects. Also included is a link to some of my previous creative endeavors with my company.
-
-Portfolio Deployed
 
 Portfolio Deployed
 
