@@ -30,6 +30,8 @@ const HomeTwo = () => {
       <Video />
       {/* End Video Section */}
 
+      <Skills />
+      {/* End Video Section */}
       <CallToAction />
       {/* End CallToAction */}
 
