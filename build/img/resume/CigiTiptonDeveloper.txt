@@ -1,0 +1,65 @@
+CIGI MARIA TIPTON
+Phone: (214) 335-6667 | Email: cigi@mirrorlessmind.com | Dallas, TX 75220
+LinkedIn:https://www.linkedin.com/MirrorlessMind 
+Portfolio: https://www.codetipton.comm
+GitHub:  https://github.com/mirrorlessmind   
+
+Innovative visual design & web developer with SMU full stack certification in JavaScript, CSS, React, Agile Principles, GitHub and Responsive Web Design. Strengths in creativity, teamwork and building projects from ideation to execution. Combining a fine arts background with a passion for technology, and an eye for design, makes me a valuable asset to any team.
+
+TECHNICAL SKILLS
+Languages: Express, React, Node, JavaScript, ES6+, CSS3, HTML5, SQL, NoSQL
+Applications GitHub,  Figma, Trello, MongoDB,  MySQL, VS Code,Handlebars, JQuery, Bootstrap, Mongoose, Materialize, Bulma
+Office: Microsoft Suite, SalesForce, Quickbooks, Final Cut Pro, Davinci, Amazon Business, YouTube Channels/Content Creation, Google Analytics  
+Adobe: Photoshop, Premiere, Light Room, Illustrator 
+Conferencing: Slack, Zoom, MicroSoft Teams 
+
+ PROJECTS 
+DevVersion  
+Code: https://github.com/mirrorlessmind/DevVersion1  | Deployed: https://devver.herokuapp.com
+Summary: React Social Media Platform for Developers
+Role: Front End, StoryBoard, Project Management
+Tools: React, Socket IO, OAuth,HTML, CSS, JavaScript, jQuery, API, Material UI, Figma,Trello, Photoshop
+
+PodShack 
+Code: https://github.com/mirrorlessmind/podshack  | Deployed: https://podshack.herokuapp.com  
+Summary: Responsive App to Assist Users to Find Podcasts
+Role: Co-Author
+Tools: HTML, CSS, JavaScript, Bootstrap, Photoshop, Passport, JQuery, Handlebars, Express
+
+EXPERIENCE
+Freelance Developer									2021-Present	
+Mirrorless Mind Studio 								     Dallas, TX
+Collaborate with Senior Developer to enhance existing code for Client
+Create Design Templates with Figma for Client
+Identify and Troubleshoot coding errors.
+
+
+
+Lead Image Curator/Owner								2016-Present	
+Mirrorless Mind Studio 								     Dallas, TX
+Created branding materials: PETA Dallas, TGIFridays, Dallas Mayor Office, etc
+Advanced 5 co-artists to begin their own companies.
+Co-Sponsored Covid Charity Drives by providing services and donations
+Detailed Oriented to insure client is always happy with the end result.
+Won 4 awards from Society of Wedding Professionals.
+Voted to the Board as Director of Media & PR for the Society of Wedding Professionals
+
+
+
+McCarthy Advertising								2007-2016
+Communications Manager  						                 	Dallas, TX
+
+Determined digital storage needs for backup and remote access for the media 
+Co-created an award winning stop-motion commercial for North Texas Honda.
+Streamlined data flow between the CRM systems within departments. 
+Create training guides and procedures for several key positions within the company.
+Trained new employees on the CRM systems and procedures
+
+During the 9 years at McCarthy, I served in several capacities/titles advancing my skills with new technologies and hands-on training. Becoming a liaison between management, creative sales and IT.
+
+EDUCATION
+Certificate, Full Stack Web Development – Southern Methodist University      
+
+Part 107 Aviation  Certification – Federal Aviation Association                                                                      
+
+Full Television Production Certification – Dallas iMedia               	                                                               
